@@ -1,4 +1,4 @@
-# 📋 Proyecto: Gestor de Tareas (Prueba Técnica)
+# 📋 Proyecto: Gestor de Tareas
 
 Este proyecto es una **aplicación web** desarrollada con **Vue 3 + Vite** que permite gestionar tareas de forma dinámica a través de un tablero Kanban con estados: **Por Hacer**, **En Proceso** y **Completado**.
 
